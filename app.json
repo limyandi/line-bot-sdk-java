@@ -1,14 +1,14 @@
 {
     "name": "echo bot - LINE Messaging API",
-    "description": "This is a sample application for the LINE Messaging API",
+    "description": "This is a the sotomie application",
     "keywords": ["chatbot", "line", "java"],
     "env": {
         "LINE_BOT_CHANNEL_TOKEN": {
-            "description": "LINE bot Channel access token from the Channel Console",
+            "description": "Channel access token",
             "required":  true
         },
         "LINE_BOT_CHANNEL_SECRET": {
-            "description": "LINE bot Channel secret from the Channel Console",
+            "description": "Channel secret",
             "required":  true
         }
     }
